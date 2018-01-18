@@ -1,0 +1,5 @@
+language: Open JDK 8 , Oracle JDK 8
+notifications:
+  email:
+    recipients:
+      - one@example.com
